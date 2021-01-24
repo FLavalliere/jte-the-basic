@@ -1,0 +1,4 @@
+libraries{
+    sonarqube
+    splunk
+}
